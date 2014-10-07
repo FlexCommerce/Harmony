@@ -2,7 +2,7 @@
     "name":"Harmony",
     "thumbnail":"harmony.png",
     "screenshot":"harmony.png",
-    "templateType":"general",
+    "templateType":"standard",
     "pageTypes":["default","home"],
     "tags": {
         "en": ["Business", "Trade", "company", "builders", "corporate", "buildingsite", "blue", "firm", "money", "simple"]        
